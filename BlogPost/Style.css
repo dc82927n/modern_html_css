@@ -1,0 +1,51 @@
+/* css is written in selector and declartion box
+ h1 */
+
+/* shortcut to add comment is command and forward / */
+
+/*h1 is a selector */
+body{
+    font-size: 20px; 
+}
+
+h1 {
+    color: green; /* we change h1 tag to green here*/
+    font-size: 50;  /*we going to add */
+    font-family: helvetica Neue, arial; 
+}
+
+h2 {
+    
+    font-size: 25;  /*we going to add */
+    font-family: helvetica Neue, arial; 
+}
+
+
+/* second option because we have two tags with the same group  
+
+*/
+h1, h2{
+
+    color: green;
+
+}
+
+
+
+
+p {
+    font-size: 18px; 
+    text-align: justify; 
+    font-family: hevetica neue, arial; 
+}
+
+
+
+
+
+
+
+
+
+
+
